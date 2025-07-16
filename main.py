@@ -10,4 +10,4 @@ def hello_world():
     return "<p>Hello, World!</p>"
 
 if __name__ == '__main__':  
-   app.run(host="siraccga.github.io/PythonVS") 
+   app.run(port="8000") 
